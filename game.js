@@ -1,5 +1,5 @@
 // User service UUID: Change this to your generated service UUID
-const USER_SERVICE_UUID         = 'd6e89d90-3a45-45ac-bcc8-6886d1070830';
+const USER_SERVICE_UUID         = '95240af1-d74d-40a7-988f-3bcf781f134c';
 const BTN_CHARACTERISTIC_UUID   = '62FBD229-6EDD-4D1A-B554-5C4E1BB29169';
 const SCORE_CHARACTERISTIC_UUID   = 'E9062E71-9E62-4BC6-B0D3-35CDCD9B027B';
 // PSDI Service UUID: Fixed value for Developer Trial
